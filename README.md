@@ -2,7 +2,7 @@
 
 **Full-Stack Developer**
 
-I build sophisticated web applications with modern technologies, specializing in real-time multiplayer games, blockchain integration, and scalable architectures.
+I build sophisticated web applications with modern technologies, specializing in TMA, blockchain integration, and scalable architectures.
 
 ## 💻 Technical Skills
 
@@ -11,6 +11,7 @@ I build sophisticated web applications with modern technologies, specializing in
 - **TypeScript** - Full type safety across complex applications
 - **TanStack Router & Query** - Modern data fetching and routing solutions
 - **Motion/Framer Motion** - Advanced animations and interactions
+- **ThreeJS/PixiJS** - High-performance 3D and 2D graphics rendering for immersive web applications
 
 ### Backend & API Development
 - **tRPC** - End-to-end type-safe API development
@@ -34,6 +35,7 @@ I build sophisticated web applications with modern technologies, specializing in
 ## 🤝 Let's Connect
 
 I'm always interested in challenging projects that push the boundaries of web development, especially those involving:
+- TMA
 - Complex real-time applications
 - Blockchain integration
 - Game development
