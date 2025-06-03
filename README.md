@@ -26,10 +26,3 @@ I build modern web apps, specializing in TMA, blockchain, and scalable architect
 - **Cloudflare R2** - Cloud storage and CDN integration
 - **Redis/Upstash** - Caching and session management
 
-## 🤝 Let's Connect
-
-Interested in projects involving:
-- TMA
-- Complex applications
-- Blockchain integration
-- Game development
