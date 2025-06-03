@@ -15,7 +15,6 @@ I build modern web apps, specializing in TMA, blockchain, and scalable architect
 - **tRPC** - End-to-end type-safe API development
 - **Node.js/Bun** - High-performance JavaScript runtime environments
 - **Drizzle ORM** - Modern TypeScript ORM with PostgreSQL
-- **RESTful APIs** - Clean, scalable API architecture
 
 ### Blockchain & Web3
 - **TON Blockchain** - Smart contract integration and wallet connectivity
@@ -27,7 +26,6 @@ I build modern web apps, specializing in TMA, blockchain, and scalable architect
 - **Cloudflare R2** - Cloud storage and CDN integration
 - **Redis/Upstash** - Caching and session management
 
-
 ## 🤝 Let's Connect
 
 Interested in projects involving:
@@ -35,6 +33,3 @@ Interested in projects involving:
 - Complex applications
 - Blockchain integration
 - Game development
-
-
-
