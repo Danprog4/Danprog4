@@ -40,7 +40,6 @@ I create complex, production-ready applications that combine cutting-edge web te
 - **Real-time Multiplayer** - Synchronized gameplay across users
 - **Mobile-First Design** - Optimized for Telegram mini-apps
 
-```
 
 ## 🛠️ Development Philosophy
 
@@ -93,6 +92,5 @@ I'm always interested in challenging projects that push the boundaries of web de
 - Game development
 - Performance-critical systems
 
----
 
-*Building the future of web applications, one commit at a time* 🚀
+
