@@ -4,13 +4,11 @@
 
 I build modern web apps, specializing in TMA, blockchain, and scalable architectures.
 
-## 💻 Technical Skills
+## 💻 Main Technical Skills
 
 ### Frontend Development
 - **React 19** - Advanced patterns with concurrent rendering and latest features
 - **TypeScript** - Full type safety across complex applications
-- **TanStack Router & Query** - Modern data fetching and routing solutions
-- **Motion/Framer Motion** - Advanced animations and interactions
 - **ThreeJS/PixiJS** - High-performance 3D and 2D graphics rendering for immersive web applications
 
 ### Backend & API Development
@@ -18,7 +16,6 @@ I build modern web apps, specializing in TMA, blockchain, and scalable architect
 - **Node.js/Bun** - High-performance JavaScript runtime environments
 - **Drizzle ORM** - Modern TypeScript ORM with PostgreSQL
 - **RESTful APIs** - Clean, scalable API architecture
-- **Real-time Systems** - WebSocket implementations and live data sync
 
 ### Blockchain & Web3
 - **TON Blockchain** - Smart contract integration and wallet connectivity
@@ -27,7 +24,6 @@ I build modern web apps, specializing in TMA, blockchain, and scalable architect
 
 ### Database & Infrastructure
 - **PostgreSQL** - Complex relational database design
-- **Neon Database** - Serverless database solutions
 - **Cloudflare R2** - Cloud storage and CDN integration
 - **Redis/Upstash** - Caching and session management
 
@@ -39,7 +35,6 @@ Interested in projects involving:
 - Complex applications
 - Blockchain integration
 - Game development
-- Performance-critical systems
 
 
 
