@@ -2,7 +2,7 @@
 
 **Full-Stack Developer**
 
-I build sophisticated web applications with modern technologies, specializing in TMA, blockchain integration, and scalable architectures.
+I build modern web apps, specializing in TMA, blockchain, and scalable architectures.
 
 ## 💻 Technical Skills
 
@@ -34,9 +34,9 @@ I build sophisticated web applications with modern technologies, specializing in
 
 ## 🤝 Let's Connect
 
-I'm always interested in challenging projects that push the boundaries of web development, especially those involving:
+Interested in projects involving:
 - TMA
-- Complex real-time applications
+- Complex applications
 - Blockchain integration
 - Game development
 - Performance-critical systems
